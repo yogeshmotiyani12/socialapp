@@ -13,6 +13,7 @@
   "author": "Yogesh Motiyani",
   "license": "ISC",
   "dependencies": {
+    "@railway/cli": "^3.0.13",
     "date-format": "^4.0.14",
     "express": "^4.18.2"
   },
